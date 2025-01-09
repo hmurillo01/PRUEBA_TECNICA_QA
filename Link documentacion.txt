@@ -1,0 +1,3 @@
+Documentación casos de prueba: https://cuddly-editor-d99.notion.site/Sistema-de-Registro-y-Login-de-Inlaze-1755516b7c4d80f3945bca32a237b885
+
+Seguimiento de bugs: https://cuddly-editor-d99.notion.site/Seguimiento-de-bugs-Sistema-de-Registro-y-Login-de-Usuario-1765516b7c4d802d88c9d5757949d8b2
